@@ -58,11 +58,12 @@ module.exports = {
       },
     ],
     'prettier/prettier': [
-      'error',
+      'warn',
       {
         trailingComma: 'es5',
         singleQuote: true,
         printWidth: 80,
+        jsxSingleQuote: true,
       },
     ],
     'react/require-extension': 'off',

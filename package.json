@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-yathish",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "Adds the eslint config files",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "license": "ISC",
   "peerDependencies": {
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.5.0",
+    "eslint": "^6.6.0",
     "eslint-config-airbnb": "^18.2.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-html": "^6.0.2",
@@ -25,7 +25,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.5.0",
+    "eslint": "^6.6.0",
     "eslint-config-airbnb": "^18.2.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-html": "^6.0.2",
